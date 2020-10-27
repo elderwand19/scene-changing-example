@@ -1,7 +1,7 @@
 This is a Readme file for the HTML5 Phaser example.
 The index.html file contains the html code while game.js file contains the whole JavaScript content.
 
-<b>This is an example for changing the scenes when an object hits a certain value on x-axis using basic HTML, Phaser and JavaScript.<b> <br>
+<b>This is an example for changing the scenes when an object hits a certain value on x-axis using basic HTML, Phaser and JavaScript.</b> <br>
 
 <i>The update:function contains the most important part of this example:</i>
 
