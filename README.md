@@ -3,7 +3,7 @@ The index.html file contains the html code while game.js file contains the whole
 
 <b>This is an example for changing the scenes when an object hits a certain value on x-axis using basic HTML, Phaser and JavaScript.<b> <br>
 
-<i>The update:function contains the most important part of this example:<i>
+<i>The update:function contains the most important part of this example:</i>
 
 <b>if(this.pikachu.x== 700){          
         this.scene.start('GameScene2');
