@@ -1,6 +1,8 @@
 <strong>Submitted By- Shivam Shakya 18BCG10085</strong>
 
 This is a Readme file for the HTML5 Phaser example.
+
+Example's Link : [Click Here](https://elderwand19.github.io/scene-changing-example/game/) <br> <br>
 The index.html file contains the html code while game.js file contains the whole JavaScript content.
 
 <b>This is an example for changing the scenes when an object hits a certain value on x-axis using basic HTML, Phaser and JavaScript.</b> <br>
