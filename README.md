@@ -1,3 +1,5 @@
+<strong>Submitted By- Shivam Shakya 18BCG10085</strong>
+
 This is a Readme file for the HTML5 Phaser example.
 The index.html file contains the html code while game.js file contains the whole JavaScript content.
 
